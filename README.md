@@ -36,10 +36,10 @@ It provides endpoints to manage various e-commerce functionalities such as user 
 - gpa (Double) – Grade Point Average
 
 ## Running the Application
-Clone the repository
-Build using Maven/Gradle
-Run the Spring Boot application
-Access endpoints via http://localhost:8080/app/...
+1. Clone the repository
+2. Build using Maven/Gradle
+3. Run the Spring Boot application
+4. Access endpoints via http://localhost:8080/app/...
 
 ## Future Enhancements
 
