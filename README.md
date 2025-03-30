@@ -24,3 +24,26 @@ It provides endpoints to manage various e-commerce functionalities such as user 
 | DELETE | `/products/{id}` | Delete product |
 | POST | `/orders` | Create a new order |
 
+## Project Structure
+![Screenshot (59)](https://github.com/user-attachments/assets/a352d4a6-abdf-4ee6-94d3-2c03cd27bc15)
+
+## Student Model
+
+- regNo (String) – Registration Number
+- name (String) – Student Name
+- age (Integer) – Student Age
+- course (String) – Course Name
+- gpa (Double) – Grade Point Average
+
+## Running the Application
+Clone the repository
+Build using Maven/Gradle
+Run the Spring Boot application
+Access endpoints via http://localhost:8080/app/...
+
+## Future Enhancements
+
+- Add database integration
+- Implement error handling
+- Support POST, PUT, and DELETE requests
+
